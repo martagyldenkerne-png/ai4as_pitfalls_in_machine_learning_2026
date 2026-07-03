@@ -1,13 +1,10 @@
 # Auto-generated from notebook imports
 # Source notebooks:
 # - notebooks_code/99_update_requirements.ipynb
-# - notebooks_code/class_01_solution.ipynb
-# - notebooks_code/class_01_solution_jdg.ipynb
-# - notebooks_code/class_02_solution.ipynb
-# - notebooks_code/class_02_solution_jdg.ipynb
-# - notebooks_code/class_03_solution.ipynb
-# - notebooks_code/class_03_solution_jdg.ipynb
-# Generated at: 2026-07-02 20:43:50 UTC
+# - notebooks_code/class_01_exercise.ipynb
+# - notebooks_code/class_02_exercise.ipynb
+# - notebooks_code/class_03_exercise.ipynb
+# Generated at: 2026-07-03 07:56:29 UTC
 
 Boruta==0.4.3
 imbalanced-learn==0.14.2
